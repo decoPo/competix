@@ -1,0 +1,5 @@
+
+Vendor=WCH
+MCU=CH32V003F4P6
+Mcu Type=CH32V00x
+Link=WCH-Link
